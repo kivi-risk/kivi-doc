@@ -1,12 +1,14 @@
-![logo](_media/icon.svg)
+![logo](img/coverpage_icon.png)
 
-# docsify <small>3.5</small>
+> kivi 风控建模
 
-> A magical documentation site generator.
+- Release: kivi-0.1.3
+- Date: 2022-07-01
+- Author: Chensy
+- Email: chensy.cao@foxmail.com
+- Pypi: https://pypi.org/project/kivi/
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[首页]()
+
+![color](#f0f0f0)
