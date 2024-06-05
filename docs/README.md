@@ -28,25 +28,12 @@ pip install kivi
 1. python37 setup.py sdist bdist_wheel
 ```
 
-> Release history
-
-- [Release history](https://pypi.org/project/kivi/0.0.7/#history)
-
 > Email: chensy.cao@foxmail.com
-
-> WeChat
-
-<img src="/kivi/img/my_wechat.jpg" width="260px">
 
 > 知乎
 
 - [专栏](https://www.zhihu.com/people/chensy-87/columns)
 
-```bash
-alias pip3.7='python3.7 -m pip'
-```
-
 ---
 
 <div style="float:right;">Copyright &copy; 2019 - 2023 Chensy</div>
-

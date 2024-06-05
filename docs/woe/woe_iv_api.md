@@ -1,6 +1,4 @@
----
-
-> `WOE-IV` 简介
+# `WOE-IV` 简介
 
 - `WOE(Weight of Evidence)`常用于特征变换
 - `IV(Information Value)`则用来衡量特征的预测能力
