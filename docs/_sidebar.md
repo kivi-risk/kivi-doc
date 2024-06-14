@@ -3,9 +3,35 @@
   * [API 概览](project/api.md)
 * 基本数据分析
   * [数据来源](dataset/dataset.md)
+  * [SQL链接方法](dataset/sql.md)
+  * [SparkSupport](SparkSupport/SparkSupport.md)
+  * [一般数据分析](descriptive_statistics/data_analysis.md)
+  * [单变量分析](feature_select/univar.md)
+  * [多变量分析](feature_select/mutivar.md)
+  * [基本统计分析方法](descriptive_statistics/descriptive_statistics.md)
+  * [数据可视化](data_vision/data_vision.md)
 * WOE分析
   * [变量离散化 - API](woe/woe_iv_api.md)
   * [变量离散化 - Embedding](woe/woe_embedding)
+* 模型选择
+  * [概率校准](model_select/ModelSelect.md)
+  * [Metrics](model_select/metrics.md)
+* 模型评估
+  * [指标稳定性评估](feature_select/PSI-CSI.md)
+  * [模型效果评估](model_select/model_eval.md)
+* 模型监控
+  * [监控指标](monitoring/monitoring.md)
+* 评分卡建设
+  * [样本建设](/score_card/sample.md)
+  * [评分建设基本方法](/score_card/card_utils.md)
+  * [评分卡模型建设](/score_card/score_card.md)
+  * [规则模型建设](/score_card/rule_card.md)
+  * [评级模型主标尺建设](/score_card/master_scale.md)
+  * [违约校准](/score_card/score_adj.md)
+  * [评分调整](/score_card/score_adj.md)
+  * [拒绝推断](/score_card/reject_inference.md)
+  * [额度模型建设](/score_card/amount.md)
+  * [预期信用损失](/score_card/ecl.md)
 * 信贷风控业务
   * [风控入门](bank/风控入门)
   * [渠道风控](bank/渠道风控)
@@ -18,55 +44,6 @@
   * [小微经营贷](bank/小微经营贷)
   * [小微反欺诈](bank/小微反欺诈)
 
-[//]: # (    - [SQL链接方法]&#40;sql/sql.md&#41;)
-
-[//]: # (    - [SparkSupport]&#40;SparkSupport/SparkSupport.md&#41;)
-
-[//]: # (    - [一般数据分析]&#40;descriptive_statistics/data_analysis.md&#41;)
-
-[//]: # (    - [变量离散化 - API]&#40;woe_iv/woe_iv_api.md&#41;)
-
-[//]: # (    - [变量离散化 - Embedding]&#40;woe_iv/woe_embedding.md&#41;)
-
-[//]: # (    - [单变量分析]&#40;feature_select/univar.md&#41;)
-
-[//]: # (    - [多变量分析]&#40;feature_select/mutivar.md&#41;)
-
-[//]: # (    - [基本统计分析方法]&#40;descriptive_statistics/descriptive_statistics.md&#41;)
-
-[//]: # (    - [数据可视化]&#40;data_vision/data_vision.md&#41;)
-
-[//]: # (- 模型评估)
-
-[//]: # (    - [指标稳定性评估]&#40;feature_select/PSI-CSI.md&#41;)
-
-[//]: # (    - [模型效果评估]&#40;model_select/model_eval.md&#41;)
-
-[//]: # (- 评分卡建设)
-
-[//]: # (    - [样本建设]&#40;/score_card/sample.md&#41;)
-
-[//]: # (    - [评分建设基本方法]&#40;/score_card/card_utils.md&#41;)
-
-[//]: # (    - [评分卡模型建设]&#40;/score_card/score_card.md&#41;)
-
-[//]: # (    - [规则模型建设]&#40;/score_card/rule_card.md&#41;)
-
-[//]: # (    - [评级模型主标尺建设]&#40;/score_card/master_scale.md&#41;)
-
-[//]: # (    - [违约校准]&#40;/score_card/score_adj.md&#41;)
-
-[//]: # (    - [评分调整]&#40;/score_card/score_adj.md&#41;)
-
-[//]: # (    - [拒绝推断]&#40;/score_card/reject_inference.md&#41;)
-
-[//]: # (    - [额度模型建设]&#40;/score_card/amount.md&#41;)
-
-[//]: # (    - [预期信用损失]&#40;/score_card/ecl.md&#41;)
-
-[//]: # (- 自然语言处理)
-
-[//]: # (    - [自然语言处理]&#40;/nlp/nlp.md&#41;)
 
 [//]: # (- 知识图谱技术)
 
@@ -93,17 +70,6 @@
 [//]: # (- 评分卡建设)
 
 [//]: # (    - [主标尺设计]&#40;score_card/master_scale.md&#41;)
-
-[//]: # ()
-[//]: # (- 模型选择)
-
-[//]: # (    - [概率校准]&#40;model_select/ModelSelect.md&#41;)
-[//]: # (    - [Metrics]&#40;model_select/metrics.md&#41;)
-
-[//]: # (    )
-[//]: # (- 模型监控)
-
-[//]: # (    - [监控指标]&#40;monitoring/monitoring.md&#41;)
 
 [//]: # ()
 [//]: # (- 机器学习方法)
