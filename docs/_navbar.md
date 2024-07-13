@@ -4,8 +4,10 @@
 * 基本数据分析
   * [数据来源](dataset/dataset.md)
 * WOE分析
-  * [变量离散化 - API](woe/woe_iv_api.md)
-  * [变量离散化 - Embedding](woe/woe_embedding)
+  * [WOE-API](woe/woe-01)
+  * [样本加权分箱](woe/woe-02)
+  * [批量分箱技术](woe/woe-03)
+  * [其他分箱](woe/woe-04)
 * 信贷风控业务
   * [风控入门](bank/风控入门)
   * [渠道风控](bank/渠道风控)

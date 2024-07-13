@@ -10,9 +10,11 @@
   * [多变量分析](feature_select/mutivar.md)
   * [基本统计分析方法](descriptive_statistics/descriptive_statistics.md)
   * [数据可视化](data_vision/data_vision.md)
-* WOE分析
-  * [变量离散化 - API](woe/woe_iv_api.md)
-  * [变量离散化 - Embedding](woe/woe_embedding)
+* **WOE分析**
+  * [WOE-API](woe/woe-01)
+  * [样本加权分箱](woe/woe-02)
+  * [批量分箱技术](woe/woe-03)
+  * [其他分箱](woe/woe-04)
 * 模型选择
   * [概率校准](model_select/ModelSelect.md)
   * [Metrics](model_select/metrics.md)
