@@ -1,6 +1,6 @@
 * [首页]()
 * API
-  * [API 概览](project/api.md)
+  * [API 概览](quick_start/quick_start)
 * WOE分析
   * [WOE-API](woe/woe-01)
   * [样本加权分箱](woe/woe-02)
