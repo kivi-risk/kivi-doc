@@ -145,7 +145,7 @@ woe_score = WOEScore(df=df_kgb, df_woe=df_woe, batch_size=3, verbose=False)
 df_woeval = woe_score.batch_run()
 ```
 
-## Step 5: 模型拟合，效果评估
+### Step 5: 模型拟合，效果评估
 
 ```python
 # 新的 KGB 样本模型拟合
