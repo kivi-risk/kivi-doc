@@ -1,26 +1,26 @@
 * [首页]()
-* API
-  * [API 概览](project/api.md)
+* [**Quick Start**](project/api.md)
 * 基本数据分析
   * [数据来源](dataset/dataset.md)
   * [SQL链接方法](dataset/sql.md)
   * [SparkSupport](SparkSupport/SparkSupport.md)
   * [一般数据分析](descriptive_statistics/data_analysis.md)
-  * [单变量分析](feature_select/univar.md)
-  * [多变量分析](feature_select/mutivar.md)
   * [基本统计分析方法](descriptive_statistics/descriptive_statistics.md)
   * [数据可视化](data_vision/data_vision.md)
 * **WOE分析**
   * [WOE-API](woe/woe-01)
   * [样本加权分箱](woe/woe-02)
   * [批量分箱技术](woe/woe-03)
-  * [其他分箱](woe/woe-04)
-* 模型选择
+* **特征选择**
+  * [单变量分析](feature_select/univar)
+  * [多变量分析](feature_select/mutivar)
+  * [VIF分析](feature_select/vif)
+* 模型评估
+  * [PSI](feature_select/psi)
+  * [CSI](feature_select/csi)
+  * [模型效果评估](model_select/model_eval.md)
   * [概率校准](model_select/ModelSelect.md)
   * [Metrics](model_select/metrics.md)
-* 模型评估
-  * [指标稳定性评估](feature_select/PSI-CSI.md)
-  * [模型效果评估](model_select/model_eval.md)
 * 模型监控
   * [监控指标](monitoring/monitoring.md)
 * 评分卡建设
