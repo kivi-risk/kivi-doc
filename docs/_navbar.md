@@ -1,8 +1,6 @@
 * [首页]()
 * API
   * [API 概览](project/api.md)
-* 基本数据分析
-  * [数据来源](dataset/dataset.md)
 * WOE分析
   * [WOE-API](woe/woe-01)
   * [样本加权分箱](woe/woe-02)

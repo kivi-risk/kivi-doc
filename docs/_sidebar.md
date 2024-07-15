@@ -1,8 +1,7 @@
 * [首页]()
 * [**Quick Start**](project/api.md)
 * 基本数据分析
-  * [数据来源](dataset/dataset.md)
-  * [SQL链接方法](dataset/sql.md)
+  * [SQL链接方法](sql/sql.md)
   * [SparkSupport](SparkSupport/SparkSupport.md)
   * [一般数据分析](descriptive_statistics/data_analysis.md)
   * [基本统计分析方法](descriptive_statistics/descriptive_statistics.md)
