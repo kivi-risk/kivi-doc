@@ -9,7 +9,7 @@
 - Author: Chensy
 - Email: chensy.cao@foxmail.com
 
-[GitHub](https://github.com/Risk-KIVI)
-[Documents](https://risk-kivi.github.io/kivi-doc/#/)
+[GitHub](https://github.com/kivi-risk/kivi.git)
+[Documents](https://kivi-risk.github.io/kivi-doc/#/)
 [PyPi](https://pypi.org/project/kivi/)
 [Get Started](#kivi)
