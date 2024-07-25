@@ -379,9 +379,7 @@ derby.log
 dev/create-release/*final
 dev/create-release/*txt
 dev/pr-deps/
-dist/
 docs/_site
-docs/api
 sql/docs
 sql/site
 lib_managed/

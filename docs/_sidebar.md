@@ -1,5 +1,7 @@
 * [首页]()
 * [**Quick Start**](quick_start/quick_start)
+* **API**
+  * [evaluate](api/evaluate)
 * 基本数据分析
   * [SQL链接方法](sql/sql.md)
   * [SparkSupport](SparkSupport/SparkSupport.md)
