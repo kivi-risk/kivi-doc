@@ -1,7 +1,10 @@
 * [首页]()
 * [**Quick Start**](quick_start/quick_start)
 * **API**
+  * [datasets](api/datasets)
   * [evaluate](api/evaluate)
+  * [stepwise](api/stepwise)
+  * [AHP](api/ahp)
 * 基本数据分析
   * [SQL链接方法](sql/sql.md)
   * [SparkSupport](SparkSupport/SparkSupport.md)
@@ -63,39 +66,21 @@
 * *贷后*
   * [贷后催收](bank/贷后催收)
 
-[//]: # (- 知识图谱技术)
 
-[//]: # (    - [janusgraph]&#40;/graph/janusgraph.md&#41;)
+[//]: # (- [KS-ROC-分布]&#40;feature_select/KS.md&#41;)
 
-[//]: # (- 异常检测)
+[//]: # (- [主标尺设计]&#40;score_card/master_scale.md&#41;)
 
-[//]: # (    - [异常交易检测]&#40;/score_card/abnormal_detection.md&#41;)
+[//]: # (- [LinearRegression]&#40;machine_learning/linearregression.md&#41;)
 
-[//]: # (- 其他问题)
+[//]: # (- [Ridge]&#40;machine_learning/ridge.md&#41;)
 
-[//]: # (    - [ETL]&#40;/project/etl.md&#41;)
+[//]: # (- [Lasso]&#40;machine_learning/lasso.md&#41;)
 
-[//]: # (    - [执行与问题排查]&#40;/project/error.md&#41;)
+[//]: # (- [Logistics]&#40;machine_learning/logistics.md&#41;)
 
-[//]: # (- 特征选择)
+[//]: # (- [Tree]&#40;machine_learning/tree.md&#41;)
 
-[//]: # (    - [指标概述]&#40;feature_select/Overview.md&#41;)
-[//]: # (    - [特征选择]&#40;feature_select/feature_select.md&#41;)
-[//]: # (    - [KS-ROC-分布]&#40;feature_select/KS.md&#41;)
-[//]: # (    - [ROC]&#40;feature_select/ROC.md&#41;)
+[//]: # (- [Apriori]&#40;machine_learning/apriori.md&#41;)
 
-[//]: # (    )
-[//]: # (- 评分卡建设)
-
-[//]: # (    - [主标尺设计]&#40;score_card/master_scale.md&#41;)
-
-[//]: # ()
-[//]: # (- 机器学习方法)
-
-[//]: # (    - [LinearRegression]&#40;machine_learning/linearregression.md&#41;)
-[//]: # (    - [Ridge]&#40;machine_learning/ridge.md&#41;)
-[//]: # (    - [Lasso]&#40;machine_learning/lasso.md&#41;)
-[//]: # (    - [Logistics]&#40;machine_learning/logistics.md&#41;)
-[//]: # (    - [Tree]&#40;machine_learning/tree.md&#41;)
-[//]: # (    - [Apriori]&#40;machine_learning/apriori.md&#41;)
-[//]: # (    - [Smitext]&#40;machine_learning/simtext.md&#41;)
+[//]: # (- [Smitext]&#40;machine_learning/simtext.md&#41;)
