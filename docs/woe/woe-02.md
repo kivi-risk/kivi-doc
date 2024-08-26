@@ -45,7 +45,7 @@ from kivi.datasets import *
 from kivi.utils.operator import *
 
 # 个人信贷违约数据集
-df_bank = Dataset.BankData()
+df_bank = Dataset.bank_data()
 
 # 样本量划分
 good = (df_bank.target.count() - df_bank.target.sum())

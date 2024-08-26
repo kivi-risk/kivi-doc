@@ -34,7 +34,7 @@ WOE技术是指“权重编码（Weight of Evidence）”技术，用于评估�
 ```python
 from kivi.woe import *
 from kivi.datasets import *
-df_bank = Dataset.BankData()
+df_bank = Dataset.bank_data()
 
 bins = DistanceBins(df_bank.age, df_bank.target, bins=5)
 df_woe = bins.fit(score=True, origin_border=False)

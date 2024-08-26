@@ -24,7 +24,7 @@
 from kivi.woe import *
 from kivi.datasets import *
 
-df_bank = Dataset.BankData()
+df_bank = Dataset.bank_data()
 df = df_bank.select_dtypes(include=['int64', 'float64']).copy()
 
 batch = WOEBatch(df, woe_type=TreeBins, rebin=False)
@@ -93,7 +93,7 @@ import numpy as np
 from kivi.woe import *
 from kivi.datasets import *
 
-df_bank = Dataset.BankData()
+df_bank = Dataset.bank_data()
 df_bank['uuid'] = np.arange(0, len(df_bank))
 
 batch = WOEBatch(df_bank, verbose=False)
@@ -130,7 +130,7 @@ import numpy as np
 from kivi.woe import *
 from kivi.datasets import *
 
-df_bank = Dataset.BankData()
+df_bank = Dataset.bank_data()
 print(df_bank.shape)
 
 batch = WOEBatch(df=df_bank, max_bin=5, min_bin=2, rebin=False)
@@ -204,7 +204,7 @@ from kivi.woe import *
 from kivi.datasets import *
 
 # data
-df_bank = Dataset.BankData()
+df_bank = Dataset.bank_data()
 df_bank['uuid'] = np.arange(0, len(df_bank))
 
 # 批量自动分箱
